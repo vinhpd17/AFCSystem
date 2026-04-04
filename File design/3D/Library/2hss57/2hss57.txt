@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-24082022-042274";"";
+"REFERENCE";"2HSS57";"";
+"TraceParts.PartTitle";"Step servo driver_two-phase  2HSS57";"";
+"TraceParts.InstanceId";"90-24082022-04227478P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"Just Motion Control Electromechanics Co.,LTD.";"";
+"DESIGN";"Step servo driver_two-phase  2HSS57";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TraceParts.PartLanguage";"en";"";
